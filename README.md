@@ -1,5 +1,5 @@
 # NLU Playground
-Exploring natural language understanding in Professor Sam Bowman's [course](https://docs.google.com/document/d/1kXhxA4iit2fhAJJGOb32bb151cKLJtW8xWuyMVwqD6s/edit?usp=sharing) at NYU
+Exploring natural language understanding in Professor [Sam Bowman](https://www.nyu.edu/projects/bowman/)'s [course](https://docs.google.com/document/d/1kXhxA4iit2fhAJJGOb32bb151cKLJtW8xWuyMVwqD6s/edit?usp=sharing) at NYU
 
 ## Notebooks
 * **Explore GloVe** 
